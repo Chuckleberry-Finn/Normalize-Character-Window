@@ -1,0 +1,5 @@
+version=1
+title=Normalize Character Window
+description=[h2]Fixes character-info-window not saving pinned/collapsed status.[/h2]
+description=Literally, that's it. The game will correctly load the window how you left it.
+visibility=public

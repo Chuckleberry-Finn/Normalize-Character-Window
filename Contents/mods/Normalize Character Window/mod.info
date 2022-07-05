@@ -1,0 +1,4 @@
+name=Normalize Character Window
+id=NormalizeCharWindow
+description=Fixes character-info-window not saving pinned/collapsed status.
+poster=poster.png
